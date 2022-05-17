@@ -7,3 +7,14 @@ body {
     background-size: 100% 100%;
     text-align: center;
 }
+
+.center-block {
+    margin: auto;
+    display: block;
+  }
+
+label {
+    text-align: left;
+    display: block;
+    text-indent: -5%;
+  }
